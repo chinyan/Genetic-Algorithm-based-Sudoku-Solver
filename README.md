@@ -6,3 +6,9 @@ The application has two buttons and four radio buttons. The radio buttons are us
 The “Solver” button is used to initiate the Sudoku solving process and the final solution is displayed on the grey 9x9 grid.
 
 The display panel at the bottom prints out the current generation, its best fitness level from that generation during the optimization process. When a solution is found, the time and generation elapsed is displayed.
+
+### Sudoku Solver GUI
+![Screenshot](sudoku_solver_gui.png)
+
+### Performance
+![Screenshot](time_elapse.png)
