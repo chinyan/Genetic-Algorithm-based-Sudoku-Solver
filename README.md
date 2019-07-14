@@ -11,4 +11,5 @@ The display panel at the bottom prints out the current generation, its best fitn
 ![Screenshot](sudoku_solver_gui.png)
 
 ### Performance
+Note: Performance plot was manually generated using Excel
 ![Screenshot](time_elapse.png)
